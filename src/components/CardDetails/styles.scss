@@ -1,0 +1,14 @@
+.card-details {
+  width: 30%;
+
+  @media screen and (max-width: 576px) {
+    position: absolute;
+    width: 100%;
+    z-index: 5;
+    display: none;
+
+    &.activated {
+      display: block;
+    }
+  }
+}
