@@ -2,7 +2,7 @@
   "name": "pokedex-api-ts",
   "version": "0.1.0",
   "private": true,
-  "http": "https://hashdev123.github.io/pokedex/",
+  "homepage": "https://hashdev123.github.io/pokedex",
   "dependencies": {
     "@emotion/react": "^11.11.0",
     "@emotion/styled": "^11.11.0",

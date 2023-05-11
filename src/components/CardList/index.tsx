@@ -16,7 +16,7 @@ const CardList = ({ creaturesData, onPokemonClick }: Props) => {
     <div className="card-list">
       <Grid container spacing={1}>
         {creaturesData.map((creature) => (
-          <Grid item xs={6} sm={4} md={2} className="creature-card">
+          <Grid item xs={6} sm={4} className="creature-card">
             <CreatureCard
               key={creature.name}
               creatureData={creature}
