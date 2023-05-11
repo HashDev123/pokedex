@@ -8,7 +8,7 @@ This App is powered by React.js library with Typescript setup.
 
 To install this app locally you have to run next commands:
 
-1. Clone repo:
+1. Clone repo: <br>
    `git clone https://github.com/HashDev123/pokedex.git`
 2. Install Node.js packages (Node 16 is preferable)
    To change your Node version using NVM
@@ -18,6 +18,7 @@ To install this app locally you have to run next commands:
 
 # How to use this App
 
+This app is deployed at the GitHub Pages. You can open it here: https://hashdev123.github.io/pokedex/
 This app is designed to show all available Pokemons and their stats. Pokemons list divided by entries of 12 creatures. <br>
 If you need to see more - press the blue button with `Load More` text at the bottom of the list. <br>
 In order to see the stats of Pokemon you can click on this Pokemon and info will be displayed at the right side of the Pokemons list. <br>
